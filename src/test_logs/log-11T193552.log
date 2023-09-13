@@ -1,0 +1,23 @@
+2282 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\AIT TR Student\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+7172 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTestwith data: [Contact{name='Le', phone='1234567890'}]
+13483 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+13483 [main] INFO  com.ait.phonebook.TestBase -- Stop test 
+13484 [main] INFO  com.ait.phonebook.TestBase -- ********************
+17368 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTestwith data: [Contact{name='Manuel', phone='1234567890'}]
+22858 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+22859 [main] INFO  com.ait.phonebook.TestBase -- Stop test 
+22859 [main] INFO  com.ait.phonebook.TestBase -- ********************
+26249 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTestwith data: [Contact{name='Manuelllllllllllllllll', phone='1234567890'}]
+31944 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+31944 [main] INFO  com.ait.phonebook.TestBase -- Stop test 
+31944 [main] INFO  com.ait.phonebook.TestBase -- ********************
+35476 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTestwith data: [Contact{name='Manuel-Le', phone='1234567890'}]
+41463 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+41463 [main] INFO  com.ait.phonebook.TestBase -- Stop test 
+41464 [main] INFO  com.ait.phonebook.TestBase -- ********************
+44960 [main] INFO  com.ait.phonebook.TestBase -- Start test addNewContactPositiveFromDataProviderWithCSVTestwith data: [Contact{name='Manuel-Le', phone='1234567890'}]
+50493 [main] INFO  com.ait.phonebook.TestBase -- PASSED: addNewContactPositiveFromDataProviderWithCSVTest
+50495 [main] INFO  com.ait.phonebook.TestBase -- Stop test 
+50495 [main] INFO  com.ait.phonebook.TestBase -- ********************
