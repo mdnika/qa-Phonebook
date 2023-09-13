@@ -8,10 +8,16 @@
 
         <methods>
           <exclude name=".*Negative.*"/>
+          <exclude name=".*ScreenCast.*"/>
         </methods>
 
       </class>
-      <class name="com.ait.phonebook.AddNewContactTests" />
+      <class name="com.ait.phonebook.AddNewContactTests" >
+        <methods>
+          <exclude name=".*DataProvider.*"/>
+        </methods>
+
+      </class>
       <class name="com.ait.phonebook.RemoveContactTests" />
     </classes>
   </test>
