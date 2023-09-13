@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ait.phonebook.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-06T18:01:44" hostname="DESKTOP-OS617JJ" time="1.94">
+  <properties/>
+  <testcase name="loginPositiveTest" classname="com.ait.phonebook.LoginTests" time="1.94"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 116.0.5845.96 (1a391816688002153ef791ffe60d9e899a71a037-refs/branch-heads/5845@{#1382}) on port 5728
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep. 06, 2023 8:01:42 NACHM. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMATION: Detected dialect: W3C
+]]></system-err>
+</testsuite>
